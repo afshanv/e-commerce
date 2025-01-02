@@ -7,7 +7,7 @@ const Categories = () => {
     {
       id: 1,
       title: 'Mens Fashion',
-      image: '/manfation.webp',
+      image: '/man3.webp',
       link: '/category/mens-fashion',
     },
     {
